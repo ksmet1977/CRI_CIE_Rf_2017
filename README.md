@@ -8,6 +8,7 @@ http://www.cie.co.at/index.php?i_ca_id=1027
 More information on the importance of the proposed updates to the CIE Ra (1974, 1995) can be found in:
 Smet, Kevin A.G., David, Aurelien, & Whitehead, Lorne. (2016) “Why color space uniformity and sample set spectral uniformity are essential for color rendering measures,” LEUKOS, vol. 12, no. 1–2, pp. 39–50.
 doi: 10.1080/15502724.2015.1091356
+https://github.com/ksmet1977/CRI_CIE_Rf_2017/blob/master/SMETKAG2015_Why%20Color%20Space%20Uniformity%20and%20Sample%20Set%20Spectral%20Uniformity%20are%20essential%20for%20color%20rendering%20measures.pdf
 
 
 
