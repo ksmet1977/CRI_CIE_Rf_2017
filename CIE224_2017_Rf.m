@@ -13,4 +13,6 @@ function [Rf,Rfi, T, Duv] = CIE224_2017_Rf(spd)
 % Author: Kevin A.G. Smet
 % date: 26/04/2017
 
-% set default test spd (Rf = 81.6):
+%--------------------------------------------
+
+% set default test spd (Rf = 81.6), (if nargin == 0).
